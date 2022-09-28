@@ -17,7 +17,9 @@
 
     $ python manage.py runserver
 
-    # On browser go to http://127.0.0.1:8000/admin/ 
+# On browser go to 
+    
+    http://127.0.0.1:8000/admin/ 
 
 # Register new user
 
